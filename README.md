@@ -1,2 +1,2 @@
 # learning-python
-this is 100dayscoding challenge and the gola is to learn python
+This is 100dayscoding challenge and the goal is to learn python
