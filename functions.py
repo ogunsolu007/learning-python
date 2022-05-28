@@ -9,7 +9,7 @@ def days_to_units(No_of_days):
 #scope global variables and local variables check
 def scope_check():
     print(unit)
-    print(No_of_days) #not working because it is not defined
+    #print(No_of_days) #not working because it is not defined
     
 
 
